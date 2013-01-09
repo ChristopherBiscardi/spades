@@ -1,0 +1,8 @@
+*.beam
+.eunit
+deps/*
+apps/spades/ebin
+*~
+dev/*
+doc/*
+rel/
